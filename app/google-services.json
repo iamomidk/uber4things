@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "269078947820",
+    "firebase_url": "https://uber4things.firebaseio.com",
+    "project_id": "uber4things",
+    "storage_bucket": "uber4things.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269078947820:android:d30fc978ff2989a754c2c9",
+        "android_client_info": {
+          "package_name": "co.seyco.uber4things"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269078947820-3o2eb6etj6erjt4o5u0imjvlru41e59d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.seyco.uber4things",
+            "certificate_hash": "1295d073782ebd5ef41f5e9bc793c2f14b378bcc"
+          }
+        },
+        {
+          "client_id": "269078947820-oar0eql5jg625gm2vp31inl72brr5tm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.seyco.uber4things",
+            "certificate_hash": "7d7ff11a135858f830de8cc4c1411e4fbd330c4a"
+          }
+        },
+        {
+          "client_id": "269078947820-4lpf8nc56j15lic1j2ju1tm9m9nka9q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMF1lg6GXTevsviNB2BrdX0BaWi0Oxb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269078947820-4lpf8nc56j15lic1j2ju1tm9m9nka9q1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269078947820-6hbg6u3ipnit8lib3a9eg3mtprnjjh7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.seyco.uber4things"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
