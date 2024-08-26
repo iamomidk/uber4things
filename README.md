@@ -53,7 +53,7 @@ This project follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 1. Clone the repository:
    ```sh
-   [git clone https://github.com/yourusername/MapParcelDeliveryApp.git](https://github.com/iamomidk/uber4things.git)
+   git clone https://github.com/iamomidk/uber4things.git
    ```
 2. Open the project in Android Studio.
 3. Add your `google-services.json` file in the `app/` directory.
